@@ -13,9 +13,9 @@ https://github.com/mauripsale/doc-adk-training/blob/main/training/module02-envir
 
 - Setting up:
 
-    uv init adk-training --python 3.12
-    cd adk-training
-    uv add "google-adk>=2.1.0" python-dotenv
+    - uv init adk-training --python 3.12
+    - cd adk-training
+    - uv add "google-adk>=2.1.0" python-dotenv
 
 - Added .env file (which is listed in .gitignore) for GOOGLE_API_KEY.
 - Added verify_setup.py

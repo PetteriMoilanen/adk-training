@@ -20,6 +20,7 @@ https://github.com/mauripsale/doc-adk-training/blob/main/training/module02-envir
 - Added .env file (which is listed in .gitignore) for GOOGLE_API_KEY.
 - Added verify_setup.py
 - Run the verification with:
+  
     uv run python verify_setup.py
 
 All good. Done. 2026-08-27
